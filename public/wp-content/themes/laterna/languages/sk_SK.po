@@ -1,0 +1,324 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Leterna\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-20 22:56+0300\n"
+"PO-Revision-Date: 2018-06-21 20:33+0000\n"
+"Language-Team: Slovak\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Basepath: .\n"
+"Last-Translator: admin <zloyleva@gmail.com>\n"
+"Language: sk_SK\n"
+"X-Poedit-SearchPath-0: ."
+
+#: header.php:27
+msgid "Search"
+msgstr "Vyhľadávanie"
+
+#: header.php:47 footer.php:18
+msgid "Home"
+msgstr "Hlavná"
+
+#: header.php:50 footer.php:19 index.php:18
+msgid "Services"
+msgstr "Služby"
+
+#: header.php:53 footer.php:8 footer.php:20
+msgid "About Us"
+msgstr "O nás"
+
+#: header.php:56 footer.php:21
+msgid "Contacts"
+msgstr "Kontakty"
+
+#: footer.php:9
+msgid ""
+"Our team is as unique in our professional backgrounds as we are in lifestyle,"
+" but what we all have in commonis an intense curiosity about our world, "
+"desire to be a part of something bigger, creative vision, and dedication to "
+"our work."
+msgstr ""
+"Náš tím je v našom profesionálnom prostredí jedinečný, pretože žijeme v "
+"životnom štýle, ale to, čo všetci máme, je v našej spoločnosti intenzívna "
+"zvedavosť, túžba byť súčasťou niečoho väčšieho, kreatívneho vízie a "
+"odhodlanie našej práce."
+
+#: footer.php:10
+msgid "17, Novembra 90/3739, 080 01 Presov, Slovakia"
+msgstr ""
+
+#: footer.php:16
+msgid "General Information"
+msgstr "Všeobecné informácie"
+
+#: footer.php:26
+msgid "Blog Posts"
+msgstr "Posledné príspevky"
+
+#: footer.php:63
+msgid "Get In Touch"
+msgstr "Dotknite sa"
+
+#: footer.php:66
+msgid "Name"
+msgstr "Názov"
+
+#: footer.php:69
+msgid "Email"
+msgstr "Email"
+
+#: footer.php:72
+msgid "Massage"
+msgstr "Masáž"
+
+#: footer.php:74 index.php:97
+msgid "Submit"
+msgstr "Predložiť"
+
+#: index.php:15
+msgid "Search engine optimisaton(SEO)"
+msgstr "Optimalizácia pre vyhľadávače (SEO)"
+
+#: index.php:16
+msgid ""
+"We’re an SEO agency that runs remarkably successful SEO campaigns in the "
+"most competitive sectors, using a unique blend of technical and creative "
+"expertise."
+msgstr ""
+"Sme SEO agentúra, ktorá má veľmi úspešné SEO kampane(projekty) v "
+"konkurenčnom sektore v ktorom používame spojenie technických a kreatívnych "
+"schopností."
+
+#: index.php:19
+msgid "Last news"
+msgstr "Najnovšie správy"
+
+#: index.php:38
+msgid ""
+"Our full-service web solutions help your business grow online leads, calls, "
+"and revenue"
+msgstr ""
+"Naše webové riešenia s plnohodnotnými službami pomáhajú Vašej firme "
+"rozširovať sieť potenciálnych on-line zákazníkov, hovorov a príjmov."
+
+#: index.php:39
+msgid ""
+"Laterna s.r.o is Internet marketing company offering innovative web "
+"marketing solutions to mid to large size companies across the globe"
+msgstr ""
+"Laterna s.r.o je internetová marketingová spoločnosť, ktorá ponúka "
+"inovatívne webové marketingové riešenia pre stredne veľké spoločností po "
+"celom svete. "
+
+#: index.php:47
+msgid ""
+"Our firm prides ourselves on driving traffic, converting visitors, and "
+"measuring effectiveness to ultimately deliver real results for our clients."
+msgstr ""
+"Naša firma je hrdá na to, že vedie prevádzku, konvertuje návštevníkov a "
+"mieri efektívnosť, aby nakoniec priniesla skutočné výsledky pre našich "
+"klientov."
+
+#: index.php:58
+msgid ""
+"Our team of online marketing and SEO consultants are driven professionals "
+"who balance passion, creativity, and accountability to produce great results."
+msgstr ""
+"Náš tím online marketingu a SEO konzultantov sú profesionálmi, ktorí vyvážia "
+"vášňou, kreativitou a zodpovednosťou a prinášajú skvelé výsledky. "
+
+#: index.php:69
+msgid ""
+"Our digital marketing agency was founded on the desire to bring more "
+"transparency to a complex, ever-changing industry."
+msgstr ""
+"Naša digitálna marketingová agentúra bola založená na túžbe priniesť väčšiu "
+"transparentnosť komplexnému, neustále sa meniacemu priemyslu."
+
+#: index.php:87
+msgid "Ready to grow?"
+msgstr "UŽ STE PRIPRAVENÍ NA RAST?"
+
+#: index.php:88
+msgid "Request a free SEO consultation"
+msgstr "Požiadajte o bezplatnú konzultáciu v oblasti SEO"
+
+#: index.php:92
+msgid "Type Your name here"
+msgstr "Napíšte sem svoje meno"
+
+#: index.php:95
+msgid "Type Your Mail here"
+msgstr "Tu zadajte svoju poštu"
+
+#: index.php:114
+msgid "Our Services"
+msgstr "Naše služby"
+
+#: index.php:115
+msgid "Our SEO Consulting services include:"
+msgstr "Naše služby SEO Consulting zahŕňajú:"
+
+#: index.php:122
+msgid "SEO strategy development"
+msgstr "Vývoj stratégie SEO"
+
+#: index.php:123
+msgid ""
+"Not sure what you need, but have an SEO budget?We’ll help you define a "
+"custom needs assessment and strategy for long-termsearch marketing success"
+msgstr ""
+"Nie ste si istí, čo potrebujete, ale máte SEO rozpočet? Pomôžeme Vám "
+"definovať hodnotenie vlastných potrieb a stratégiu pre dlhodobý marketingový "
+"úspech."
+
+#: index.php:137
+msgid "Implementation guidelines"
+msgstr "Smernice pre implementáciu"
+
+#: index.php:138
+msgid ""
+"Do you already have a clear direction in mind for search engine optimization "
+"but need help knowing how best to implement your ideas without losing "
+"rankings? We can guide your development team through tough technical "
+"situations"
+msgstr ""
+"Máte už jasné smerovanie na optimalizáciu pre vyhľadávače, ale potrebujete "
+"pomoc s vedomím, ako najlepšie realizovať svoje nápady bez toho, aby ste "
+"stratili hodnotenie? Prevedieme Váš vývojový tím cez náročné technické "
+"situácie."
+
+#: index.php:146
+msgid "SEO audits"
+msgstr "SEO audit"
+
+#: index.php:147
+msgid ""
+"With each audit we compile an in-depth analysis of your site’s on-page "
+"optimization and locate immediate areas for improvement. We understand that "
+"no two sites or industries are alike, so this audit can be as specific or "
+"general as needed. Either way, when complete, we guarantee your team will "
+"have multiple actionable items"
+msgstr ""
+"Pri každom audite zostavujeme hĺbkovú analýzu optimalizácie stránky na "
+"stránke a nájdeme okamžité oblasti na zlepšenie. Chápeme, že žiadne dve "
+"stránky alebo dva obchodu nie sú podobné, takže tento audit môže byť "
+"špecifický alebo všeobecný, ak to bude potrebné. Garantujeme, že váš tím "
+"bude mať viac akčných položiek či tak či onak."
+
+#: index.php:161
+msgid "Keyword research and analysis"
+msgstr "Výskum a analýza kľúčových slov"
+
+#: index.php:162
+msgid ""
+"Perhaps the most boring and dreaded task in search marketing, keyword "
+"research can quickly overwhelm fledgling SEOs. We do the dirty work so your "
+"in-house team can focus on the big picture. This analysis goes beyond Word "
+"tracker data,looking at important search and user behavior, in addition to "
+"your high converting and competitive keywords"
+msgstr ""
+"Výskum kľúčových slov, čo je možno najnáročnejšia a obávaná úloha v "
+"marketingu vyhľadávania, môže rýchlo prekonať začínajúcich v SEO. Robíme "
+"špinavú prácu pre Vás, aby sa Váš tím mohol sústrediť na niečom veľkom. Táto "
+"analýza presahuje údaje služby Wordtracker, okrem dôležitých kľúčových slov "
+"v oblasti vyhľadávania a používania Vašich konverzií a konkurenčných "
+"kľúčových slov."
+
+#: index.php:170
+msgid "Competitive analysis"
+msgstr "Konkurenčná analýza"
+
+#: index.php:171
+msgid ""
+"Are you neck and neck with the competition and need to know exactly what "
+"they’redoing and how? We’ll break down their on- and off-site tactics, "
+"potential service providers, budget estimates and more"
+msgstr ""
+"Ste bok po boku s konkurenčnými firmami a potrebujete presne vedieť, čo "
+"robia a ako? Rozoberieme ich taktiku (online alebo offline), potenciálnych "
+"poskytovateľov služieb, rozpočtové odhady, atď.."
+
+#: index.php:185
+msgid "Pay-Per-Click (PPC) Management Services"
+msgstr "Služby \"Platba za klik\" - Pay-Per-Click (PPC)"
+
+#: index.php:186
+msgid ""
+"From single keyword ad groups to dedicated landing pages, we believe that "
+"truly groundbreaking pay per click advertising is founded upon a detailed "
+"foundation & constant optimization"
+msgstr ""
+"Od reklamných skupín s jedným kľúčovým slovom až po vyhradené vstupné "
+"stránky, veríme, že skutočne prevratná reklama s platbou za kliknutie je "
+"založená na podrobnej nadácii a neustálej optimalizácii."
+
+#: index.php:208
+msgid "What You Get Using Our SEO Company’s"
+msgstr "Čo získate pomocou SEO firmy"
+
+#: index.php:219
+msgid "5 of the most exciting new developments in pay per click"
+msgstr "5 z najpôsobivejšieho vývoja v oblasti platieb za kliknutie"
+
+#: index.php:220
+msgid ""
+"Successfully targeting internet users with pay-per-click ads typically means "
+"staying on top of – and in front of – how they interact with…"
+msgstr ""
+"Úspešné zacielenie používateľov internetu pomocou reklám s platbou za "
+"kliknutie znamená zvyčajne zostať na vrchole - a pred nimi - ako komunikujú "
+"s ..."
+
+#: index.php:225
+msgid "September"
+msgstr ""
+
+#: index.php:298
+msgid "Questions about pricing?"
+msgstr "Otázky o cenách или Dotaz na cenník?"
+
+#: index.php:302
+msgid "First name"
+msgstr "Meno"
+
+#: index.php:305
+msgid "Last name"
+msgstr "Priezvisko"
+
+#: index.php:308
+msgid "Business name"
+msgstr "Názov spoločnosti или Obchodné meno"
+
+#: index.php:311
+msgid "Business email"
+msgstr "Eilová adrmaesa spoločnosti"
+
+#: index.php:314
+msgid "Business phone"
+msgstr "Telefónne číslo spoločnosti"
+
+#: index.php:317
+msgid "Send"
+msgstr "Odoslať"
+
+#. Name of the theme
+msgid "Laterna Theme"
+msgstr ""
+
+#. Description of the theme
+msgid "WordPress theme for huge site"
+msgstr ""
+
+#. URI of the theme
+#. Author URI of the theme
+msgid "http://zloyleva.site"
+msgstr ""
+
+#. Author of the theme
+msgid "ZloyLeva"
+msgstr ""
